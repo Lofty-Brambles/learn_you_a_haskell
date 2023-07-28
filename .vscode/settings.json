@@ -1,0 +1,5 @@
+{
+  "editor.detectIndentation": false,
+  "editor.tabSize": 4,
+  "haskell.ghcupExecutablePath": "/root/.ghcup/bin/ghcup"
+}
